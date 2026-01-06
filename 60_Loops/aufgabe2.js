@@ -1,9 +1,14 @@
-let b = 0
-for (let a = 0; a <= 50; a+= 2) {
-    b = a + b;
-    
+let sum = 0;
+
+for (let i = 0; i <= 100; i++) {
+    if (i % 2 !== 0) {
+
+        sum = sum + i
+
+    }
+
+
 }
 
-console.log(b);
 
-
+console.log("Summe:", sum);
