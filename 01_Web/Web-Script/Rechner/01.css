@@ -1,0 +1,17 @@
+ .rechner {
+     position: relative;
+     top: 200px;
+     left: 30%;
+     background-color: beige;
+     height: 100px;
+     width: 400px;
+     padding: 20px;
+ }
+
+ .Überschrift {
+     font-size: 20px;
+     color: black;
+     height: 100px;
+     display: flex;
+     justify-content: center
+ }
