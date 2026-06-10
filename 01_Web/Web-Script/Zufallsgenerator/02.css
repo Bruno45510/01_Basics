@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+}
+
+input {
+    padding: 10px;
+    width: 100%;
+    margin-left: 10px;
+}
+
+.box {
+    display: flex;
+}
